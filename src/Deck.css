@@ -1,0 +1,92 @@
+/* body {
+    background: black;
+}
+
+.display {
+    margin: 3rem auto;
+    text-align:center;
+    color: rgb(192, 152, 152);
+}
+
+.card-display {
+    
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    transform: translate(10px,20px) ;
+    list-style-type: none;
+   
+    
+}
+
+
+/* .button {
+    background: none;
+    color: rgb(201, 85, 143);
+    border-color: rgb(201, 85, 143) ;
+    font-size: 1rem;
+    cursor: pointer;
+    margin: 0.5em;
+} */
+/* .button:hover{
+    border-color: greenyellow;
+    color: greenyellow
+}  */
+
+.getCard {
+    /* position: absolute;
+    left: 0;
+    right: 0;  */
+    text-align:center;
+    margin: auto;
+    transform: translate(10px,20px) ;
+   
+} */
+
+/* body {
+    background: black;
+} */
+
+.display {
+    margin:  50px 50px 200px ;
+    text-align: left;
+    width: 70%;
+    /* color: rgb(47, 170, 198); */
+    /* color: rgb(116, 204, 220); */
+
+}
+
+.card-display {
+    position: absolute;
+    margin-bottom : 50px;
+    list-style-type: none;  
+    opacity: 0.95; 
+}
+
+
+/* .button {
+    background: none;
+    color: rgb(201, 85, 143);
+    border-color: rgb(201, 85, 143) ;
+    font-size: 1rem;
+    cursor: pointer;
+    margin: 0.5em;
+}
+.button:hover{
+    border-color: greenyellow;
+    color: greenyellow
+}  */
+
+.getCard {
+    /* position: absolute;
+    left: 0;
+    right: 0;  */
+    bottom: 0;
+    width: 20%;
+    text-align:ce nter;
+    margin: auto;
+    transform: translate(10px,20px) ;
+
+   
+}
