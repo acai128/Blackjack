@@ -1,4 +1,4 @@
-#Black Jack Game 
+# Black Jack Game 
 
 Black Jack Game is played between two players.  The object of the game is to come as close to 21 points as possible with your cards -- without going over 
 
