@@ -1,4 +1,27 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Black Jack Game 
+
+Black Jack Game is played between two players.  The object of the game is to come as close to 21 points as possible with your cards -- without going over 
+
+## Technologies 
+*JavaScript 
+*ReactJS
+*HTML
+*CSS 
+
+## Features
+
+### Homepage
+
+Player one and player two enters their names and click "Start" to start game 
+![](recording3.gif)
+
+### Game Play Page 
+Each player takes a turn to draw up a card, the player that has the closest points of 21 without going over wins. 
+![](recording4.gif)
+
+
+
+<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -65,4 +88,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify -->
