@@ -3,10 +3,10 @@
 Black Jack Game is played between two players.  The object of the game is to come as close to 21 points as possible with your cards -- without going over 
 
 ## Technologies 
-*JavaScript 
-*ReactJS
-*HTML
-*CSS 
+* JavaScript 
+* ReactJS
+* HTML
+* CSS 
 
 ## Features
 
@@ -18,6 +18,24 @@ Player one and player two enters their names and click "Start" to start game
 ### Game Play Page 
 Each player takes a turn to draw up a card, the player that has the closest points of 21 without going over wins. 
 ![](recording4.gif)
+
+## Installation 
+
+* Clone the repo to your local machine: 
+```js
+* https://github.com/acai128/Blackjack.git
+```
+
+* Install project's dependencies 
+```bash
+npm install 
+```
+
+* Run React Server 
+```bash
+npm start 
+```
+
 
 
 
