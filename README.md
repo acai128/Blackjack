@@ -22,9 +22,10 @@ Each player takes a turn to draw up a card, the player that has the closest poin
 ## Installation 
 
 * Clone the repo to your local machine: 
-```js
-* https://github.com/acai128/Blackjack.git
-```
+
+*[https://github.com/acai128/Blackjack.git](https://github.com/acai128/Blackjack.git)
+
+
 
 * Install project's dependencies 
 ```bash
